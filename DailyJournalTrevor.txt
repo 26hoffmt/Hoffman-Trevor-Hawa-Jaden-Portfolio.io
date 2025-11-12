@@ -15,6 +15,9 @@ Hi, this is my daily journal for my final engineering project.
 10/16 - Today was a day to work on our digital portfolios and make sure we have everything done and submitted. I had no issues creating my docs with all of my projects and pictures.
 10/21-10/24 - All of these days were spent relearning how to use Fusion 360 with a group of Kevin Kennedy's assigned by Mr.Dubick. I not feel pretty confertable using Fusion. We also had no class on 10/23
 10/27 and 10/29 - These classes were used to learn how to use Makera Cam to design different things. I created a workflow on how to use the software and am very comfertable. We also used our designs to actually mill a product.
+11/3-11/7 - This week was a mix of learning how to upload materials into github and to add links and photos to a github website page. When I was not doing that, I was working on testing printing from my fan. I need to make some adjustments and maybe print the parts seperatly.
+11/11 - Today I worked on designing my fan in sepeate parts so that they can print easier.
+11/12 - Today, we learned how to upload a topagraphy map and 3-d print it.
 
 
 
