@@ -18,6 +18,7 @@ Hi, this is my daily journal for my final engineering project.
 11/3-11/7 - This week was a mix of learning how to upload materials into github and to add links and photos to a github website page. When I was not doing that, I was working on testing printing from my fan. I need to make some adjustments and maybe print the parts seperatly.
 11/11 - Today I worked on designing my fan in sepeate parts so that they can print easier.
 11/12 - Today, we learned how to upload a topagraphy map and 3-d print it.
+12/9 - Today we had a personal projet day. I had isseus becuase my fan file was backdated to before Thanksgiving, however, I was able to edit the file and make progress today, making holes for the fan and designing the blade. Tommorrow, I will print the test fan to make sure everything is looking good.
 
 
 
