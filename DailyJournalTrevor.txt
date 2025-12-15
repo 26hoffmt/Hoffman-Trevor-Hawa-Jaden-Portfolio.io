@@ -20,6 +20,9 @@ Hi, this is my daily journal for my final engineering project.
 11/12 - Today, we learned how to upload a topagraphy map and 3-d print it.
 12/9 - Today we had a personal projet day. I had isseus becuase my fan file was backdated to before Thanksgiving, however, I was able to edit the file and make progress today, making holes for the fan and designing the blade. Tommorrow, I will print the test fan to make sure everything is looking good.
 12/10 - Toady I printed my prototype for my fan. I also worked on uploading files for my portfolio of this project and making sure my topography map was ready to go.
+12/12 - Today I worked on my topo map and did not work on the fan.
+12/15 - Today I printed the attachment that allows my fan to spin. I also troubleshooted my topography map project.
+
 
 
 
