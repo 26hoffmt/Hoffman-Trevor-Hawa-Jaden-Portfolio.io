@@ -22,6 +22,8 @@ Hi, this is my daily journal for my final engineering project.
 12/10 - Toady I printed my prototype for my fan. I also worked on uploading files for my portfolio of this project and making sure my topography map was ready to go.
 12/12 - Today I worked on my topo map and did not work on the fan.
 12/15 - Today I printed the attachment that allows my fan to spin. It printed well but I need to shrink the radius just a tad and I also need to make sure the thread is the same on both the fan base and the attachment. I also troubleshooted my topography map project and worked on creating website pages for my final project and my topography map.
+12/16 - Today I finally got to mill my topo map on the cnc machine. After I took care of that, I worked on documenting my final project and my topography map.
+
 
 
 
