@@ -26,6 +26,8 @@ Hi, this is my daily journal for my final engineering project.
 1/6 - Today me and my partner worked on creating a task anylasis sheet for what we have to do with our project. I also finished up my documentation on my capstone project and topography project my adding files and sending them to Mr.Dubick
 1/7 - Today I continued testing my fan attachment. I got rid of the thread features and I have decided to make the attachment and fan come together with glue instead of screwing on. Me and my partner also worked on our task analysis document.
 1/8 - Today, I worked on updating my Gantt sheet and my task analysis document. These documents are for me and my partner to plan out what we will work on up to when our project is due.
+1/9 - Today, I finally got my atatchment for my fan to print and work correctly. From here, I will improve the design slightly and work on attaching the motor to this.
+
 
 
 
