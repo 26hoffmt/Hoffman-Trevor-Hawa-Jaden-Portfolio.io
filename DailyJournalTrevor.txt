@@ -27,6 +27,8 @@ Hi, this is my daily journal for my final engineering project.
 1/7 - Today I continued testing my fan attachment. I got rid of the thread features and I have decided to make the attachment and fan come together with glue instead of screwing on. Me and my partner also worked on our task analysis document.
 1/8 - Today, I worked on updating my Gantt sheet and my task analysis document. These documents are for me and my partner to plan out what we will work on up to when our project is due.
 1/9 - Today, I finally got my atatchment for my fan to print and work correctly. From here, I will improve the design slightly and work on attaching the motor to this.
+1/12 - Today, me and my partner shifted to working on the wiring and coding of our motor for the fan. We have gathered all the materials we need and have created a mock sketch and code on tinkercad.
+
 
 
 
