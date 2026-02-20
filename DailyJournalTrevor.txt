@@ -34,6 +34,8 @@ Hi, this is my daily journal for my final engineering project.
 1/22 - Today I finsihed my bradboard wiring for the motor. Tommorrow I will work on soldering the motor on and intergrating the motor with code.\
 1/27-1/28 - On these days, me and Jaden worked on the electronics for our fan. We found a chip that we can use and have soldered on pieces and done research and coding.
 1/29 - Today we shifted gears on our project revamping the fan design, I worked on making a base for the fan electronics as well.
+1/30 - 2/20 - This time period was spent coding and wiring our motor. The main issues we had was with the wiring, I could not find a configuration that would spin the motor. I learned a lot about troubleshooting and electronics in order to get the motor to work.
+
 
 
 
